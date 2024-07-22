@@ -1,7 +1,3 @@
-Sure! Below is a README file for running the project:
-
----
-
 # Uniswap Project
 
 This project demonstrates the usage of Uniswap V2 to swap tokens using a smart contract. The project uses Truffle for development and testing, and Ganache CLI for forking the Ethereum mainnet.
